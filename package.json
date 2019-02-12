@@ -6,10 +6,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [
-    "Bot",
-    "Ticket"
-  ],
   "author": "Casper Schaepherders",
   "license": "ISC",
   "devDependencies": {
